@@ -1,0 +1,2 @@
+2023-10-04T04:42:32+00:00 CRITICAL Out of memory (allocated 41943040) (tried to allocate 126976 bytes) in D:\xampp\htdocs\myanimal_woo_commerce\wp-includes\class-wpdb.php on line 2425
+
